@@ -1,4 +1,4 @@
-var plusOne = function(digits) {
+let plusOne = function(digits) {
      const n = digits.length;
    
      for (let i = n - 1; i >= 0; i--) {
